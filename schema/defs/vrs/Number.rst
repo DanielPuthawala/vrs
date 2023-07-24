@@ -22,3 +22,7 @@ A simple integer value as a VRS class.
       - integer
       - 1..1
       - The value represented by Number
+   *  - color
+      - string
+      - 1..1
+      - The color of the Number.  Eg 42 is mauve and 63 is azure.
